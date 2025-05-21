@@ -10,6 +10,3 @@ class Solution:
                 seen.add(num)
                 
         return duplicates
-
-        print(findSneakyNumbers([0,1,1,0]))  
-        print(findSneakyNumbers([0,3,2,1,3,2])) 
